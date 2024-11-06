@@ -1,0 +1,41 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+footer{   
+    background-color: #1d6847; 
+    width: 100%;
+    height: 180px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+footer img{
+    width: 130px;
+    height: 130px;
+     margin: 15px;
+}
+
+ .canto{
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+    margin: 25px;
+ }
+ .base{
+    display: flex;
+    align-items: flex-start;
+    width: 100%;
+ }
+ .col{
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    margin: 25px;
+    font-size: 18px;
+ }
+

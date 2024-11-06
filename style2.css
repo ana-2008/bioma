@@ -1,0 +1,177 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    color:rgb(5, 5, 5);
+    background-color: #f9f9f7;
+}
+h2{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+   font-size: 35px;
+}
+
+h1{
+   display: flex;
+   font-size: 20px; 
+}
+ 
+
+h1{
+    display: flex;
+    font-size: 20px; 
+ }
+ 
+
+ h1{
+    display: flex;
+    font-size: 20px; 
+ }
+  
+ h1{
+    display: flex;
+    font-size: 20px; 
+ }
+
+
+ h1{
+    display: flex;
+    font-size: 20px; 
+ }
+
+
+ h1{
+    display: flex;
+    font-size: 20px; 
+ }
+
+
+ h1{
+    display: flex;
+    font-size: 20px; 
+ }
+
+
+ h1{
+    display: flex;
+    font-size: 20px; 
+ }
+
+ h1{
+    display: flex;
+    font-size: 20px; 
+ }
+
+.d1{
+    margin: 25px;
+    background-color: #ba01ff;
+    color: black;
+    border-color: rgb(42, 5, 76);
+    border-radius: 11px;
+    
+}
+
+.d2{
+    margin: 25px;
+    background-color:#f6f932;
+    color: black;
+    border-color: #dde01a;
+    border-radius: 11px;
+    
+}
+
+.d3{
+    margin: 25px;
+    background-color:#62e157;
+    color: black;
+    border-color:#096101;
+    border-radius: 11px;
+    
+}
+
+.d4{
+    margin: 25px;
+    background-color:#228dff;
+    color: black;
+    border-color:#013770;
+    border-radius: 11px;
+    
+}
+
+.d5{
+    margin: 25px;
+    background-color:#ff0092;
+    color: black;
+    border-color:#b9036b;
+    border-radius: 11px;
+    
+}
+
+
+.d6{
+    margin: 25px;
+    background-color:#cf76f0;
+    color: black;
+    border-color:#ba01ff;
+    border-radius: 11px;
+    
+}
+
+
+.d7{
+    margin: 25px;
+    background-color:#f5f777;
+    color: black;
+    border-color:#f6f932;
+    border-radius: 11px;
+    
+}
+
+
+.d8{
+    margin: 25px;
+    background-color:#86f77c;
+    color: black;
+    border-color:#62e157;
+    border-radius: 11px;
+    
+}
+
+
+
+.d9{
+    margin: 25px;
+    background-color:#7bb9fb;
+    color: black;
+    border-color:#228dff;
+    border-radius: 11px;
+    
+}
+
+
+.d10{
+    margin: 25px;
+    background-color:#cf76f0;
+    color: black;
+    border-color:#5c017e;
+    border-radius: 11px;
+    
+}
+
+
+.d11{
+    margin: 25px;
+    background-color:#ff0092;
+    color: black;
+    border-color:#f9bbdf;
+    border-radius: 11px;
+    
+}
+
+
+
+
+
+
+
+
