@@ -1,0 +1,159 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    
+    }
+
+
+.light-mode{
+    color: black;
+    background-color: beige;
+}
+.dark-mode{
+    color: white;
+    background-color: rgba(13, 2, 43, 0.884);
+    background-image: linear-gradient(rgba(10, 3, 48, 0.705), rgba(6, 6, 64, 0.765)),
+    url();
+    box-shadow: 4px 8px rgba(242, 244, 239, 0.849),
+}
+
+
+header{
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background:linear-gradient(0deg,#fcff69, #feffae)   ;
+}
+    
+input{
+    border-radius: 50px;
+    height: 50px;
+    margin: 30px;
+    width: 250px;
+    
+ }
+
+.logim {
+    margin: 25px;
+    width: 50px;
+    height: 50px;
+    border-radius: 7px;
+
+   
+}
+#toggle-button { 
+    width: 50px;
+    height: 50px;
+    border-radius: 7px;
+    
+}
+
+.logo{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-right: 70px;
+}
+
+
+nav{
+    height: 38px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+  
+    
+}
+
+button{
+    width: 380PX;
+    height: 35px;
+    background-color: rgb(255, 210, 106)
+    
+  }
+
+
+
+.ima{
+    height: 400px;
+    width: 320px;
+    margin: 40px;
+   margin-left: 30px;
+    
+  }
+
+.tema{
+    display: flex;
+}
+.texto{
+    
+    width: 900px;
+    height: 250px;
+    justify-content: left;   
+    margin: 10px;
+    margin-bottom: 70px;
+}
+ p{
+    text-align: justify;
+    font-size: 16px;
+ }
+
+ h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    padding: 40px;
+
+ }
+
+ .line{
+    width: 80%;
+    border-radius: 10px;
+    border: #096101 2px solid;
+    margin-left: 12%;
+}
+
+.ex{
+    font-size: 35px;
+    justify-content: left;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+ .canto{
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+    margin: 25px;
+ }
+ .base{
+    display: flex;
+    align-items: flex-start;
+    width: 100%;
+ }
+ .col{
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    margin: 25px;
+    font-size: 18px;
+ }
+ .esq, .dir{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:380px;
+    margin-top: 55px;
+ }
+
+
+
+ .org
+{
+    display: flex;
+    flex-direction: column;
+    margin-right: 130px;
+}
